@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace CrispyEnigma.Controllers;
+namespace CrispyEnigma.API.Controllers;
 
 [ApiController]
 [Route("[controller]")]
