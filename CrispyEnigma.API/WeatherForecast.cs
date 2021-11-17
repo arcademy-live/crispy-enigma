@@ -1,4 +1,4 @@
-namespace CrispyEnigma;
+namespace CrispyEnigma.API;
 
 public class WeatherForecast
 {
