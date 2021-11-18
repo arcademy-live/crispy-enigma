@@ -18,7 +18,7 @@ jobs:
       - run:
           name: Test
           command: |
-            dotnet test --norestore
+            dotnet test --no-restore
 
 workflows:
   build_and_test:
