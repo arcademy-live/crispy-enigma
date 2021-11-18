@@ -9,6 +9,7 @@ jobs:
           name: Build
           command: |
             dotnet build
+            dotnet test --no-restore
 
   test:
     docker:
